@@ -1,0 +1,67 @@
+body {
+    background-color: #182124;
+}
+
+
+
+header {
+    background-color: #F3EEE8;
+}
+
+.logo img {
+    margin-left: 30px;
+    padding: 10px 10px;
+    width: 120px;
+
+}
+
+.logo2 {
+    max-height: 80px;
+    margin-left: 10px;
+}
+
+.top {
+    background-color: #F3EEE8;
+    display: inline-flex;
+
+}
+
+.tel,
+p {
+    padding: 5px 30px;
+    text-align: left;
+}
+
+.tel2 p {
+    padding: 5px 30px;
+    margin-left: 40px;
+}
+
+.information1 {
+    margin-top: 10px;
+}
+
+.information2 {
+    float: right;
+    margin-top: 10px;
+    text-align: center;
+    margin-right: 35px;
+}
+
+img {
+    width: 220px;
+    padding: 0px;
+    margin: 0px 0px 0px 35px;
+    padding: 15px 0px 0px 0px;
+}
+
+.textlogo {
+    font-size: 20px;
+    text-align: center;
+  
+}
+.welkome img{
+    width: 100%;
+    margin:0 auto;
+    display: flex;
+}
